@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /*
- * @author jelathro
+ * @author Suren Musinada
  * @date 2/18/13
  * 
  * Print "Hello, World!" to the console
