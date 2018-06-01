@@ -7,7 +7,8 @@
  * After ten collisions (ie. ten items in 
  * a particular hash items list) the hash 
  * table will expand to the maxCollision 
- * plus the growthFactor.
+ * plus growthFactor.
+ * (removed the)
  */
 
 #include <stdlib.h>
