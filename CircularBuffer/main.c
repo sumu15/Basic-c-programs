@@ -5,6 +5,7 @@
  * A LIFO (Last In First Out) 
  * data-structure of generic 
  * items.
+ * suren is awesome (master)
  */
 
 #include <stdio.h>
