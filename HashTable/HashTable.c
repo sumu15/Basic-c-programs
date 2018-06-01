@@ -2,7 +2,7 @@
  * @author: jelathro
  * @date: 11/2/13
  * 
- * Implementation file for HashTable.
+ * Implementation file for dashTable.
  * 
  * After ten collisions (ie. ten items in 
  * a particular hash items list) the hash 
